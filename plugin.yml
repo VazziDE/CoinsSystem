@@ -1,0 +1,5 @@
+name: CoinsSystem
+version: 1.0.0
+main: Vazzi\CoinsSystem\Main
+api: 3.18.0
+author: Vazzi

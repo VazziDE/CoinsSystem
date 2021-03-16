@@ -1,0 +1,23 @@
+﻿#CoinsSystem Config
+
+#CoinsSystem Prefix
+
+prefix: "§8[§bCoins§8] §7» §f"
+
+#Admin Permission (Add Coins, Remove Coins, Set Coins, See Coins)
+
+perm: coins.admin
+
+default-coins: 1000
+
+#Player Coins Message (%coins = Player Coins, %player = Player Name)
+
+player-coins: "§aYou have §e%coins §aCoins."
+see-player-coins: "§7The Player §a%name §7has §c%coins §7Coins."
+
+#Update Player Coins Message (%name = Other Player Name, %coins = Player Coins)
+
+set-player-coins: "§7Player §a%name §7has now §c%coins §7Coins."
+add-player-coins: "§7Player §a%name §7received §c%coins Coins."
+remove-player-coins: "§7Player §a%name §7lost §c%coins Coins."
+
