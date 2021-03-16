@@ -28,7 +28,7 @@ Players can see their Coins with the command /coins and server admins can change
 
 ```
 $playercoins = $this->getServer()->getPluginManager()->getPlugin("CoinsSystem")->getCoins($player->getName());
-$sender->sendMessage($player->getName() . $coins);
+$player->sendMessage($player->getName() . $coins);
 ```
 
 *If you want to add Coins to a Player by a Plugin use this code:*
