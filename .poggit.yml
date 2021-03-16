@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/VazziDE/CoinsSystem
+build-by-default: true
+branches:
+projects:
+  CoinsSystem:
+    path: ""
+...
