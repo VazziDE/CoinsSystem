@@ -4,6 +4,11 @@ This CoinsSystem allows your player to have coins, as a server admin you can add
 
 ![icon](https://user-images.githubusercontent.com/45903049/111331522-44e1b080-8671-11eb-8d46-5f0bd18eb0c1.png)
 
+[![](https://poggit.pmmp.io/shield.state/CoinsSystem)](https://poggit.pmmp.io/p/CoinsSystem)
+<a href="https://poggit.pmmp.io/p/CoinsSystem"><img src="https://poggit.pmmp.io/shield.state/CoinsSystem"></a>
+[![](https://poggit.pmmp.io/shield.api/CoinsSystem)](https://poggit.pmmp.io/p/CoinsSystem)
+<a href="https://poggit.pmmp.io/p/CoinsSystem"><img src="https://poggit.pmmp.io/shield.api/CoinsSystem"></a>
+
 **HOW TO USE IT?**
 
 Players can see their Coins with the command /coins and server admins can change the coins from players with the following commands.
