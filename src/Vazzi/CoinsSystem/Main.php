@@ -42,7 +42,7 @@ class Main extends PluginBase {
 	}
 
     public function registerCommand(){
-        $this->getServer()->getCommandMap()->register('coins', new CoinsCommand($this));
+        $this->getServer()->getCommandMap()->register('CoinsSystem', new CoinsCommand($this));
     }
 
     public function registerEvent(){
