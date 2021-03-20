@@ -2,7 +2,7 @@
 CoinsSystem Plugin for PocketMine-MP Server Software.
 This CoinsSystem allows your player to have coins, as a server admin you can add, remove, set, see and get the Coins Amount of a Player.
 
-![icon](https://user-images.githubusercontent.com/45903049/111331522-44e1b080-8671-11eb-8d46-5f0bd18eb0c1.png)
+![image](https://user-images.githubusercontent.com/45903049/111869857-934cc300-8981-11eb-8b5e-16d18126f526.png)
 
 [![](https://poggit.pmmp.io/shield.state/CoinsSystem)](https://poggit.pmmp.io/p/CoinsSystem)
 <a href="https://poggit.pmmp.io/p/CoinsSystem"><img src="https://poggit.pmmp.io/shield.state/CoinsSystem"></a>
